@@ -1,10 +1,12 @@
-#Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken:
 
-###INGREDIENTES
+### INGREDIENTES
+
  - Frango
  - Creme de leite
  - Sal
  - Tempero, os bagulho que você quiser
 
-###MODO DE PREPARO
+### MODO DE PREPARO
+
  - Bota tudo na panela e cozinha, sei la
